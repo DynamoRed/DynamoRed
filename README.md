@@ -1,4 +1,4 @@
-### Hi there, I'm DynamoRed - aka [DynamoRed][website] 👋
+### Hi there, I'm Raphael - aka [DynamoRed][website] 👋
 
 [![Website](https://img.shields.io/website?label=www.dynamored.com&style=for-the-badge&url=https%3A%2F%2Fdynamored.com)](https://dynamored.com)
 
