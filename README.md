@@ -71,6 +71,6 @@
 <img align="left" alt="DynamoRed's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamoRed&langs_count=5&hide_border=true&theme=github_dark&show_icons=true" />
 
 [website]: https://dynamored.com
-[youtube]: https://www.youtube.com/channel/UCUiZ_6MmssUaGuinUKhuREg
+[youtube]: https://www.youtube.com/channel/UCUiZ_6MmssUaGuinUKhuREg 
 [instagram]: https://instagram.com/iam.dynamored
 [discord]: https://discord.com/users/324956349353951232
