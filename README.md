@@ -68,7 +68,7 @@
 ## Most of my repositories are private but you can ask me to view more ;)
 
 <img align="left" alt="DynamoRed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DynamoRed&show_icons=true&theme=github_dark&hide_border=true" />
-<img align="left" alt="DynamoRed's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamoRed&langs_count=5&hide_border=true&theme=github_dark&show_icons=true" /> 
+<img align="left" alt="DynamoRed's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamoRed&langs_count=10&hide_border=true&theme=github_dark&show_icons=true" /> 
 
 [website]: https://dynamored.com
 [youtube]: https://www.youtube.com/channel/UCUiZ_6MmssUaGuinUKhuREg 
