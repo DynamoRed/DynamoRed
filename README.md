@@ -60,6 +60,7 @@
   <img align="left" alt="Apache" width="32px" src="https://i.imgur.com/JYnDIO1.png" />
   <img align="left" alt="Drupal" width="32px" src="https://i.imgur.com/taFTZqr.png" />
   <img align="left" alt="Python" width="32px" src="https://i.imgur.com/7oaoxts.png" />
+  <img align="left" alt="Lua" width="32px" src="https://i.imgur.com/rpPjsAq.png" />
 </div>
 
 <br />
