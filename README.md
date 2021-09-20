@@ -61,6 +61,9 @@
   <img align="left" alt="Drupal" width="32px" title="Drupal" src="https://i.imgur.com/taFTZqr.png" />
   <img align="left" alt="Python" width="32px" title="Python" src="https://i.imgur.com/7oaoxts.png" />
   <img align="left" alt="Lua" width="32px" title="Lua" src="https://i.imgur.com/rpPjsAq.png" />
+  <img align="left" alt="Laravel" width="32px" title="Laravel" src="https://i.imgur.com/hQRu4RS.png" />
+  <img align="left" alt="JSON" width="32px" title="JSON" src="https://i.imgur.com/8AUD9Qg.png" />
+  <img align="left" alt="YAML" width="32px" title="YAML" src="https://i.imgur.com/aegoveC.png" />
 </div>
 
 <br />
