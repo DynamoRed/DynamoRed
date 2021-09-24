@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Raphael - aka [DynamoRed][website] 👋
 
-[![Website](https://img.shields.io/website?label=www.dynamored.com&style=for-the-badge&url=https%3A%2F%2Fdynamored.com)](https://dynamored.com)
+[![Website](https://img.shields.io/website?label=dynamored.com&style=for-the-badge&url=https%3A%2F%2Fdynamored.com)](https://dynamored.com)
 
 ## I'm a Student and a Freelancer !
 
