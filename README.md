@@ -31,7 +31,6 @@
   <img align="left" alt="Linux" title="Linux" width="32px" src="https://i.imgur.com/0vidkKh.png" />
   <img align="left" alt="Unix" title="Unix" width="32px" src="https://i.imgur.com/QuFRD48.png" />
   <img align="left" alt="Debian" title="Debian" width="32px" src="https://i.imgur.com/N9rcFU9.png" />
-  <img align="left" alt="Kali Linux" title="Kali Linux" width="32px" src="https://i.imgur.com/z12PeqP.png" />
 </div><br><br>
 <div>
   <img align="left" alt="C" width="32px" title="C" src="https://i.imgur.com/tulTXLd.png" />
@@ -65,6 +64,7 @@
   <img align="left" alt="Laravel" width="32px" title="Laravel" src="https://i.imgur.com/hQRu4RS.png" />
   <img align="left" alt="JSON" width="32px" title="JSON" src="https://i.imgur.com/8AUD9Qg.png" />
   <img align="left" alt="YAML" width="32px" title="YAML" src="https://i.imgur.com/aegoveC.png" />
+  <img align="left" alt="Kali Linux" title="Kali Linux" width="32px" src="https://i.imgur.com/z12PeqP.png" />
 </div>
 
 <br />
