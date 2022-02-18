@@ -65,6 +65,11 @@
   <img align="left" alt="JSON" width="32px" title="JSON" src="https://i.imgur.com/8AUD9Qg.png" />
   <img align="left" alt="YAML" width="32px" title="YAML" src="https://i.imgur.com/aegoveC.png" />
   <img align="left" alt="Kali Linux" title="Kali Linux" width="32px" src="https://i.imgur.com/z12PeqP.png" />
+  <img align="left" alt="John The Ripper" title="John The Ripper" width="32px" src="https://i.imgur.com/saUvgwm.png" />
+  <img align="left" alt="Burp Suite" title="Burp Suite" width="32px" src="https://i.imgur.com/GGFKFjd.png" />
+</div><br><br>
+<div>
+  <img align="left" alt="Metasploit" width="32px" title="Metasploit" src="https://i.imgur.com/h1B5SZP.png" />
 </div>
 
 <br />
