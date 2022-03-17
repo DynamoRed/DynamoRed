@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-<div>
+<div style="display: flex; align-items: center;">
   <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="32px" src="https://i.imgur.com/jO0qtnf.png" />
   <img align="left" alt="AWS" title="AWS" width="32px" src="https://i.imgur.com/eZWO5UW.png" />
   <img align="left" alt="Google Cloud" title="Google Cloud" width="32px" src="https://i.imgur.com/y3qphpF.png" />
@@ -32,7 +32,7 @@
   <img align="left" alt="Unix" title="Unix" width="32px" src="https://i.imgur.com/QuFRD48.png" />
   <img align="left" alt="Debian" title="Debian" width="32px" src="https://i.imgur.com/N9rcFU9.png" />
 </div><br><br>
-<div>
+<div style="display: flex; align-items: center;">
   <img align="left" alt="C" width="32px" title="C" src="https://i.imgur.com/tulTXLd.png" />
   <img align="left" alt="C++" width="32px" title="C++" src="https://i.imgur.com/9NS399p.png" />
   <img align="left" alt="C#" width="32px" title="C#" src="https://i.imgur.com/CihZbts.png" />
@@ -44,7 +44,7 @@
   <img align="left" alt="Git" width="32px" title="Git" src="https://i.imgur.com/ZCNScYG.png" />
   <img align="left" alt="Docker" width="32px" title="Docker" src="https://i.imgur.com/bhFvGUA.png" />
 </div><br><br>
-<div>
+<div style="display: flex; align-items: center;">
   <img align="left" alt="GitLab" width="32px" title="GitLab" src="https://i.imgur.com/JN1T7OJ.png" />
   <img align="left" alt="GitHub" width="32px" title="GitHub" src="https://i.imgur.com/9KcLcaH.png" />
   <img align="left" alt="Java" width="32px" title="Java" src="https://i.imgur.com/i6e6h7k.png" />
@@ -56,7 +56,7 @@
   <img align="left" alt="NuxtJS" width="32px" title="NuxtJS" src="https://i.imgur.com/wklkcOo.png" />
   <img align="left" alt="NGINX" width="32px" title="NGINX" src="https://i.imgur.com/DChYVCP.png" />
 </div><br><br>
-<div>
+<div style="display: flex; align-items: center;">
   <img align="left" alt="Apache" width="32px" title="Apache" src="https://i.imgur.com/JYnDIO1.png" />
   <img align="left" alt="Drupal" width="32px" title="Drupal" src="https://i.imgur.com/taFTZqr.png" />
   <img align="left" alt="Python" width="32px" title="Python" src="https://i.imgur.com/7oaoxts.png" />
@@ -68,8 +68,12 @@
   <img align="left" alt="John The Ripper" title="John The Ripper" width="32px" src="https://i.imgur.com/saUvgwm.png" />
   <img align="left" alt="Burp Suite" title="Burp Suite" width="32px" src="https://i.imgur.com/GGFKFjd.png" />
 </div><br><br>
-<div>
-  <img align="left" alt="Metasploit" width="32px" title="Metasploit" src="https://i.imgur.com/h1B5SZP.png" />
+<div style="display: flex; align-items: center;">
+  <img align="left" alt="Jetbrains Tools" width="32px" height="32px" title="Jetbrains Tools" src="https://i.imgur.com/iwVAXSE.png" />
+  <img align="left" alt="Metasploit" width="32px" height="32px" title="Metasploit" src="https://i.imgur.com/h1B5SZP.png" />
+  <img align="left" alt="Tomcat" width="32px" height="32px" title="Tomcat" src="https://i.imgur.com/AinPuZt.png" />
+  <img align="left" alt="Maven" width="32px" height="32px" title="Maven" src="https://i.imgur.com/alyxmPC.png" />
+  <img align="left" alt="Spring" width="32px" height="32px" title="Spring" src="https://i.imgur.com/HFlxl7G.png" />
 </div>
 
 <br />
