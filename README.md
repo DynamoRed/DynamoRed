@@ -78,7 +78,7 @@
 
 ## Most of my repositories are private but you can ask me to view more ;)
 
-![grid-snake](https://user-images.githubusercontent.com/44113746/175304367-1987d5a5-924e-4fb5-bfa9-ed54eefb7ef8.svg)
+<img src="https://user-images.githubusercontent.com/44113746/175304367-1987d5a5-924e-4fb5-bfa9-ed54eefb7ef8.svg" />
 
 [website]: https://dynamored.com
 [youtube]: https://www.youtube.com/channel/UCUiZ_6MmssUaGuinUKhuREg 
