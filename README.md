@@ -4,8 +4,8 @@
 
 [![Website](https://img.shields.io/website?label=https://dynamored.com&style=for-the-badge&url=https%3A%2F%2Fdynamored.com)](https://dynamored.com)
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
+> **Note** <br>
+> I’m currently learning everything and I’m looking to collaborate with other content creators 🌱
 
 ### Connect with me:
 
