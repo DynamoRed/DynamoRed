@@ -78,7 +78,7 @@
 
 ## Most of my repositories are private but you can ask me to view more ;)
 
-<img align="left" alt="DynamoRed's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamoRed&langs_count=5&hide_border=true&theme=github_dark&show_icons=true" />
+![grid-snake](https://user-images.githubusercontent.com/44113746/175304367-1987d5a5-924e-4fb5-bfa9-ed54eefb7ef8.svg)
 
 [website]: https://dynamored.com
 [youtube]: https://www.youtube.com/channel/UCUiZ_6MmssUaGuinUKhuREg 
