@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Raphael - aka [DynamoRed][website] 👋
 
-[![Website](https://img.shields.io/website?label=www.dynamored.com&style=for-the-badge&url=https%3A%2F%2Fdynamored.com)](https://dynamored.com)
+[![Website](https://img.shields.io/website?label=https://dynamored.com&style=for-the-badge&url=https%3A%2F%2Fdynamored.com)](https://dynamored.com)
 
 ## I'm a Student and a Freelancer !
 
@@ -11,10 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dynamored.com" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="DynamoRed | YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="DynamoRed | Discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="DynamoRed | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="DynamoRed | YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
+[<img align="left" alt="DynamoRed | Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />][discord]
+[<img align="left" alt="DynamoRed | Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 
 <br />
 
