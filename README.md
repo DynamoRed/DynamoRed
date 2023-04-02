@@ -1,8 +1,8 @@
-<img align="left" alt="https://dynamored.com" width="100%" src="https://user-images.githubusercontent.com/44113746/229367126-087805e8-181b-43ff-acfc-85cc0074cb45.png" />
+<img align="left" alt="Hi there, I am Raphaël" width="100%" src="https://user-images.githubusercontent.com/44113746/229367126-087805e8-181b-43ff-acfc-85cc0074cb45.png" />
 
-[<img align="left" alt="https://dynamored.com" width="100%" src="https://user-images.githubusercontent.com/44113746/229367125-bd2fce3a-a189-44ed-a6c7-16d3049ed419.png" />][website]
+[<img align="left" alt="https://dynamored.com" width="100%" src="https://user-images.githubusercontent.com/44113746/229367779-536c7370-4b41-4eaf-80f5-d310ebb37acc.png" />][website]
 
-<img align="left" alt="dynamored.com" width="100%" src="https://user-images.githubusercontent.com/44113746/229323939-02906338-3fef-4dcb-8aed-d65ce7f1a6b3.png" />
+<img align="left" alt="Fullstack developer" width="100%" src="https://user-images.githubusercontent.com/44113746/229323939-02906338-3fef-4dcb-8aed-d65ce7f1a6b3.png" />
 
 <img align="left" alt="I’m currently learning everything and I’m looking to collaborate with other content creators" width="100%" src="https://user-images.githubusercontent.com/44113746/229364200-849c6ad5-b1ab-431a-8780-36d2a3a21931.png" />
 
