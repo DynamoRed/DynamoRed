@@ -1,6 +1,6 @@
 <img align="left" alt="Hi there, I am Raphaël" width="100%" src="https://user-images.githubusercontent.com/44113746/229367126-087805e8-181b-43ff-acfc-85cc0074cb45.png" />
 
-[<img align="left" alt="https://dynamored.com" width="100%" src="https://user-images.githubusercontent.com/44113746/229367779-536c7370-4b41-4eaf-80f5-d310ebb37acc.png" />][website]
+[<img align="left" alt="https://dynamored.com" width="100%" src="https://user-images.githubusercontent.com/44113746/229367858-5e5678c4-090c-4420-b355-303a45a0f937.png" />][website]
 
 <img align="left" alt="Fullstack developer" width="100%" src="https://user-images.githubusercontent.com/44113746/229323939-02906338-3fef-4dcb-8aed-d65ce7f1a6b3.png" />
 
