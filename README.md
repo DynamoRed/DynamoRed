@@ -20,11 +20,12 @@
   <div width="98%" style="display: flex; flex-direction: row; align-items: center;">
     <a href="https://dynamo.red/gdev" rel="nofollow"><img width="29.5%" alt="https://dynamo.red/gdev" src="https://user-images.githubusercontent.com/44113746/229365078-c1ce5e30-65e5-4daa-9ac0-2e74d7760b65.png" /></a>
     <a href="https://dynamo.red/discord" rel="nofollow"><img width="20.5%" alt="https://dynamo.red/discord" src="https://user-images.githubusercontent.com/44113746/229365076-d2980a5f-08e3-461e-b90f-68372f1a0ab3.png" /></a>
-    <a href="https://dynamo.red/insta" rel="nofollow"><img width="23.3%" alt="https://dynamo.red/instagram" src="https://user-images.githubusercontent.com/44113746/229365080-a41e3950-d052-471c-8333-fdc5369ccc21.png" /></a>
+    <a href="https://dynamo.red/insta" rel="nofollow"><img width="23.3%" alt="https://dynamo.red/instagram" src="https://github.com/user-attachments/assets/a20074f3-5b55-41d0-a36c-214ea2143ee4" /></a>
     <a href="https://dynamo.red/hackbox" rel="nofollow"><img width="23.5%" alt="https://dynamo.red/hackbox" src="https://user-images.githubusercontent.com/44113746/229365079-9678bdf3-d360-41f2-b3c5-38f5a6f87e9c.png" /></a>
   </div>
   <img width="98%" src="https://user-images.githubusercontent.com/44113746/229365075-a023ff61-1404-474a-ad2a-c84d1f0d00b9.png" />
 </div>
+
 <br>
 
 <div align=center>
