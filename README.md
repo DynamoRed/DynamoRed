@@ -2,14 +2,13 @@
 
 [<img align="left" alt="https://dynamored.com" width="100%" src="https://user-images.githubusercontent.com/44113746/229367858-5e5678c4-090c-4420-b355-303a45a0f937.png" />][website]
 
-<img align="left" alt="Fullstack developer" width="100%" src="https://github.com/user-attachments/assets/dfe4c9f8-c89c-4efe-8280-3e44b8f65595" />
+<img align="left" alt="Fullstack developer" width="100%" src="https://user-images.githubusercontent.com/44113746/229323939-02906338-3fef-4dcb-8aed-d65ce7f1a6b3.png" />
 
 <img align="left" alt="I’m currently learning everything and I’m looking to collaborate with other content creators" width="100%" src="https://user-images.githubusercontent.com/44113746/229364200-849c6ad5-b1ab-431a-8780-36d2a3a21931.png" />
 
 <img align="left" alt="Languages, tools, technologies and frameworks I use/know:" width="100%" src="https://user-images.githubusercontent.com/44113746/229366688-97dd4711-c1e2-4049-afd7-ec63172eca66.png" />
 
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;" width="100%">
-
   <img width="49%" src="https://user-images.githubusercontent.com/44113746/229324255-566d5e13-3182-4242-accc-26d890ad7328.png" />
   <img width="49%" src="https://user-images.githubusercontent.com/44113746/229324254-fa850423-359a-401a-97d0-b82ff1b3b824.png" />
 </div>
