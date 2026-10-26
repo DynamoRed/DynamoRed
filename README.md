@@ -1,4 +1,4 @@
-<img align="left" alt="Hi there, I am Raphaël" width="100%" src="https://user-images.githubusercontent.com/44113746/229367126-087805e8-181b-43ff-acfc-85cc0074cb45.png" />
+<img align="left" alt="Hi there, I am Fabio" width="100%" src="https://github.com/user-attachments/assets/0bd5270a-9c1d-4149-b597-2f123dd5c78b" />
 
 [<img align="left" alt="https://dynamored.com" width="100%" src="https://user-images.githubusercontent.com/44113746/229367858-5e5678c4-090c-4420-b355-303a45a0f937.png" />][website]
 
